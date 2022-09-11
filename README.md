@@ -7,6 +7,7 @@
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:2px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:2px;" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:2px;" />
+<img align="left" alt="Git" width="40px" src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" style="padding-right:2px;" />
 
 <!--
 **SebastianOrkiszewski/SebastianOrkiszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
