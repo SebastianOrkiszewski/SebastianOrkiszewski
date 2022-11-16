@@ -1,7 +1,5 @@
 ###
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Sebastian.)](https://git.io/typing-svg)
-
 ## Languages and Tools:
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:2px;" />
