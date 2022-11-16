@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Sebastian.
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Sebastian.)](https://git.io/typing-svg)
 
 ## Languages and Tools:
 
