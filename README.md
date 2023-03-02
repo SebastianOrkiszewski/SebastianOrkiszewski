@@ -4,7 +4,7 @@
 
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:2px;" />
 <img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right:2px;" />
-<img align="left" alt="Angular" width="40px" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:2px;" />
+<img align="left" alt="Angular" width="40px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:2px;" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:2px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:2px;" />
 <img align="left" alt="SASS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" style="padding-right:2px;" />
